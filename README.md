@@ -22,8 +22,7 @@ Aplikasi web berbasis **React** yang memungkinkan pengguna mencari film melalui 
 
 ## 🖼️ Tampilan Aplikasi
 
-![preview](preview-screenshot.png)
-*Gambar hanya ilustrasi (opsional, silakan tambahkan sendiri)*
+![preview](public/OmbdAPI.png)
 
 ## 🚀 Cara Menjalankan
 
